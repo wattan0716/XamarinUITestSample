@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileUITest", "MobileUITest\MobileUITest\MobileUITest.csproj", "{839A3569-6D30-4DFB-9524-689E9DFA02C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mobile.UITest.Core", "Mobile.UITest.Core\Mobile.UITest.Core.csproj", "{F183EEB1-7C94-4274-B9D8-3C0D85C9777E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{839A3569-6D30-4DFB-9524-689E9DFA02C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{839A3569-6D30-4DFB-9524-689E9DFA02C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{839A3569-6D30-4DFB-9524-689E9DFA02C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{839A3569-6D30-4DFB-9524-689E9DFA02C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F183EEB1-7C94-4274-B9D8-3C0D85C9777E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F183EEB1-7C94-4274-B9D8-3C0D85C9777E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F183EEB1-7C94-4274-B9D8-3C0D85C9777E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F183EEB1-7C94-4274-B9D8-3C0D85C9777E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4ABEA6F0-BCB9-487A-85D5-A2B5F7D82D11}
+	EndGlobalSection
+EndGlobal
